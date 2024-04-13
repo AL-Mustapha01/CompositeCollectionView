@@ -445,6 +445,7 @@
 				DEVELOPMENT_TEAM = 84SB5QF8F3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = CompositeCollectionView/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Composite Collection View";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -473,6 +474,7 @@
 				DEVELOPMENT_TEAM = 84SB5QF8F3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = CompositeCollectionView/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Composite Collection View";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
